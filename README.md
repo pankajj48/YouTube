@@ -33,30 +33,12 @@ This project replicates the user interface of YouTube
 
 ---
 
-## 📂 Folder Structure
-
-YouTube/
-
-├── public/
-├── src/
-│ ├── assets/ # Images & static files
-│ ├── components/
-│ │ ├── navbar/ # Navigation bar
-│ │ ├── mainpage/ # Main video grid
-│ │ ├── search page/ # Search results UI
-│ │ └── player/ # Video player layout
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
-├── package.json
-└── README.md
-
 📌 To-Do / Upcoming
-  -> Add video API integration (e.g. YouTube Data API)
-  -> Improve mobile responsiveness
-  -> Add video recommendations section
-  -> Add like/share/comment features
 
+- Improve mobile responsiveness
+- Add video recommendations section
+- Add like/share/comment features
+- Creative login functionality
 
+- 
 Thank you ❤️
