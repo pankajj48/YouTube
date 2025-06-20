@@ -1,9 +1,12 @@
 # 🎬 YouTube Clone (React.js)
 
 Welcome to **YouTube Clone**, a modern and interactive video streaming UI built using **React.js**.  
-This project replicates the user interface of YouTube — including sidebar navigation, video player, and search features — to help you learn and demonstrate front-end skills.
+This project replicates the user interface of YouTube 
+— including sidebar navigation, video player, and search features 
+— to help you learn and demonstrate front-end skills.
 
-![YouTube Clone Demo](https://user-images.githubusercontent.com/your-image-demo.gif) <!-- (Optional: Add a real GIF/screenshot link) -->
+![image](https://github.com/user-attachments/assets/e0069a62-6ddf-4f45-bc61-99cfaa79db59)
+
 
 ---
 
@@ -33,9 +36,8 @@ This project replicates the user interface of YouTube — including sidebar navi
 ## 📂 Folder Structure
 
 YouTube/
-│
+
 ├── public/
-│
 ├── src/
 │ ├── assets/ # Images & static files
 │ ├── components/
