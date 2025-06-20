@@ -39,6 +39,5 @@ This project replicates the user interface of YouTube
 - Add video recommendations section
 - Add like/share/comment features
 - Creative login functionality
-
-- 
+  
 Thank you ❤️
